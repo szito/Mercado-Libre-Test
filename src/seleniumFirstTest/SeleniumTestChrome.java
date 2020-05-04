@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 
 
-public class SeleniumTest2 {
+public class SeleniumTestChrome {
 
 	public static void main(String[] args) throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", "/Users/szito/Desktop/ML-scripts/Drivers/chromedriver");
